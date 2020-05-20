@@ -1,0 +1,20 @@
+{
+  "name": "location-project",
+  "version": "1.0.0",
+  "description": "Testing some geodata visualisation with D3js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Karin Meijvogel",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.16.0",
+    "d3-geo": "^1.12.0",
+    "express": "^4.17.1",
+    "topojson": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
